@@ -1,1 +1,7 @@
 fatal: unable to access 'https://github.com/cryptgaku/fr-relay.git/': Could not resolve host: github.com
+remote: Internal Server Error        
+remote: Request ID 9DE6:C68BE:74E126:A91D9F:6AEAFE9E        
+remote: Time 2026-11-04T09:45:03Z
+To https://github.com/cryptgaku/fr-relay.git
+ ! [remote rejected] HEAD -> master (Internal Server Error)
+error: failed to push some refs to 'https://github.com/cryptgaku/fr-relay.git'
