@@ -11,3 +11,9 @@ remote: Time 2026-11-04T10:00:03Z
 To https://github.com/cryptgaku/fr-relay.git
  ! [remote rejected] HEAD -> master (Internal Server Error)
 error: failed to push some refs to 'https://github.com/cryptgaku/fr-relay.git'
+remote: Internal Server Error        
+remote: Request ID E66E:818F6:79C347:B01228:6AEB05A6        
+remote: Time 2026-11-04T10:15:03Z
+To https://github.com/cryptgaku/fr-relay.git
+ ! [remote rejected] HEAD -> master (Internal Server Error)
+error: failed to push some refs to 'https://github.com/cryptgaku/fr-relay.git'
