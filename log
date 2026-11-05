@@ -29,3 +29,7 @@ remote: Time 2026-11-04T11:15:02Z
 To https://github.com/cryptgaku/fr-relay.git
  ! [remote rejected] HEAD -> master (Internal Server Error)
 error: failed to push some refs to 'https://github.com/cryptgaku/fr-relay.git'
+remote: fatal error in commit_refs        
+To https://github.com/cryptgaku/fr-relay.git
+ ! [remote rejected] HEAD -> master (failure)
+error: failed to push some refs to 'https://github.com/cryptgaku/fr-relay.git'
